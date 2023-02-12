@@ -1,7 +1,0 @@
-C:\Users\Yamin Castro\source\repos\EJERCICIOO5\EJERCICIOO5\bin\Debug\EJERCICIOO5.exe.config
-C:\Users\Yamin Castro\source\repos\EJERCICIOO5\EJERCICIOO5\bin\Debug\EJERCICIOO5.exe
-C:\Users\Yamin Castro\source\repos\EJERCICIOO5\EJERCICIOO5\bin\Debug\EJERCICIOO5.pdb
-C:\Users\Yamin Castro\source\repos\EJERCICIOO5\EJERCICIOO5\obj\Debug\EJERCICIOO5.csprojAssemblyReference.cache
-C:\Users\Yamin Castro\source\repos\EJERCICIOO5\EJERCICIOO5\obj\Debug\EJERCICIOO5.csproj.CoreCompileInputs.cache
-C:\Users\Yamin Castro\source\repos\EJERCICIOO5\EJERCICIOO5\obj\Debug\EJERCICIOO5.exe
-C:\Users\Yamin Castro\source\repos\EJERCICIOO5\EJERCICIOO5\obj\Debug\EJERCICIOO5.pdb
