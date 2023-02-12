@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\udb\Programación de Algoritmos L\programa para area y superficie\programa para area y superficie\bin\Debug\programa para area y superficie.exe.config
+C:\Users\MINEDUCYT\Desktop\udb\Programación de Algoritmos L\programa para area y superficie\programa para area y superficie\bin\Debug\programa para area y superficie.exe
+C:\Users\MINEDUCYT\Desktop\udb\Programación de Algoritmos L\programa para area y superficie\programa para area y superficie\bin\Debug\programa para area y superficie.pdb
+C:\Users\MINEDUCYT\Desktop\udb\Programación de Algoritmos L\programa para area y superficie\programa para area y superficie\obj\Debug\programa para area y superficie.csprojAssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\udb\Programación de Algoritmos L\programa para area y superficie\programa para area y superficie\obj\Debug\programa para area y superficie.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\udb\Programación de Algoritmos L\programa para area y superficie\programa para area y superficie\obj\Debug\programa para area y superficie.exe
+C:\Users\MINEDUCYT\Desktop\udb\Programación de Algoritmos L\programa para area y superficie\programa para area y superficie\obj\Debug\programa para area y superficie.pdb
